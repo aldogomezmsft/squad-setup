@@ -1,0 +1,9 @@
+[
+  {
+    "name": "personal-base",
+    "type": "git",
+    "source": "https://github.com/aldogomezmsft/squad-setup.git",
+    "ref": "main",
+    "path": "personal/.squad"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "name": "oribio-org",
+    "type": "git",
+    "source": "https://github.com/aldogomezmsft/squad-setup.git",
+    "ref": "main",
+    "path": "oribio/.squad"
+  }
+]
